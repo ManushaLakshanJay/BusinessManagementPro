@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/c237d7cd-f6a4-4ee6-8230-ff0541f29b01)
+![image](https://github.com/user-attachments/assets/fe565b05-c0c6-419e-af21-7cecac84a1b4)
+![image](https://github.com/user-attachments/assets/673f54ea-bf66-4dd0-a634-19b0a9bf1e5c)
+
+
 # BusinessManagementPro
 
 🚀 A modern business management platform to streamline operations, enhance collaboration, and boost productivity.
@@ -85,7 +90,11 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-*(You can add screenshots of your dashboard, login page, etc.)*
+![image](https://github.com/user-attachments/assets/ddf0c7a9-b8a3-4f5a-a1d9-9196ac9e59ae)
+![image](https://github.com/user-attachments/assets/4965a662-8188-4b26-8ef5-c1e227eabb65)
+![image](https://github.com/user-attachments/assets/f163f10a-4d93-4b7a-8f29-1681c37095b3)
+
+
 
 ---
 
